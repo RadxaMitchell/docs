@@ -38,17 +38,17 @@ Here are the pinouts for each hardware interface:
 
 ### USB 3.0 OTG/HOST Type-A
 
-| PIN | Name             |
-| --- | ---------------- |
-| 1   | VCC5V0_USB_OTG0  |
-| 2   | TYPEC0_OTG_DM    |
-| 3   | TYPEC0_OTG_DP    |
-| 4   | GND              |
-| 5   | TYPEC0_SSRX1N    |
-| 6   | TYPEC0_SSRX1P    |
-| 7   | GND              |
-| 8   | TYPEC0_SSTX1N    |
-| 9   | TYPEC0_SSTX1P    |
+| PIN | Name            |
+| --- | --------------- |
+| 1   | VCC5V0_USB_OTG0 |
+| 2   | TYPEC0_OTG_DM   |
+| 3   | TYPEC0_OTG_DP   |
+| 4   | GND             |
+| 5   | TYPEC0_SSRX1N   |
+| 6   | TYPEC0_SSRX1P   |
+| 7   | GND             |
+| 8   | TYPEC0_SSTX1N   |
+| 9   | TYPEC0_SSTX1P   |
 
 ### USB Type-C for Debug and Date
 

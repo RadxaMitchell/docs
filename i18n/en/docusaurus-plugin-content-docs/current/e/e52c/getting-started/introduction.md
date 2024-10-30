@@ -10,7 +10,7 @@ Radxa E52C is a compact network computer that offers a wide range of networking 
 
 The Radxa E52C is based on the Rockchip RK3582 processor, featuring dual‑core Cortex‑A76 and quad‑core Cortex‑A55 CPUs, delivering exceptional performance and efficiency.
 
-Radxa E52C With dual onboard 2.5G Ethernet interfaces, it ensures high‑speed network connectivity, suitable for high‑bandwidth network applications. 
+Radxa E52C With dual onboard 2.5G Ethernet interfaces, it ensures high‑speed network connectivity, suitable for high‑bandwidth network applications.
 
 Radxa E52C provides developers, IoT enthusiasts, DIY PC enthusiasts, and other users with a reliable and highly capable platform to turn their ideas into reality.
 

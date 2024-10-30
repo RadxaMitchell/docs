@@ -6,7 +6,7 @@ sidebar_position: 7
 
 1. How to restore factory settings of iStoreOS system?
 
-  When the system is running normally, press and hold the USER button for 5s, the system will restore the factory settings and then reboot.
+When the system is running normally, press and hold the USER button for 5s, the system will restore the factory settings and then reboot.
 
   <img src="/img/e/e52c/radxa-e52c-hardware-overview.webp" width="800" alt="radxa-e52c pack" />
 
